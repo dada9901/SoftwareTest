@@ -6,7 +6,7 @@ public class Number {
 		if(a>1)
 			return multi(a-1)*a;
 		else
-		return a;
+		return 1;
 	}
 	public double gete() {
 		double s=0;
